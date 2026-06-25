@@ -1,5 +1,4 @@
 # Credit-Card-Fraud-Detection-Using-ANN
-# Credit Card Fraud Detection Using ANN
 
 A PyTorch-based Artificial Neural Network (ANN) for detecting fraudulent credit card transactions. The project includes data preprocessing, feature scaling, SMOTE for class balancing, model training, and performance evaluation.
 
