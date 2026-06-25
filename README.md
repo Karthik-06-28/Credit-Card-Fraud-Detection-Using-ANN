@@ -1,2 +1,27 @@
 # Credit-Card-Fraud-Detection-Using-ANN
-Credit Card Fraud Detection Using ANN: Developed a PyTorch-based ANN to classify fraudulent credit card transactions. Applied data preprocessing, feature encoding, Min-Max scaling, and SMOTE for class balancing. Evaluated the model using Accuracy, ROC-AUC, and a confusion matrix.
+# Credit Card Fraud Detection Using ANN
+
+A PyTorch-based Artificial Neural Network (ANN) for detecting fraudulent credit card transactions. The project includes data preprocessing, feature scaling, SMOTE for class balancing, model training, and performance evaluation.
+
+## Features
+
+* Data preprocessing and encoding
+* SMOTE for handling class imbalance
+* ANN with Batch Normalization and Dropout
+* Performance evaluation using Accuracy, ROC-AUC, and Confusion Matrix
+
+## Tech Stack
+
+Python, PyTorch, Pandas, NumPy, Scikit-learn, SMOTE, Matplotlib, Seaborn
+
+## Dataset
+
+* `fraudTrain.csv`
+* `fraudTest.csv`
+
+## Run
+
+```bash
+pip install pandas numpy torch scikit-learn imbalanced-learn matplotlib seaborn
+python fraud_detection.py
+```
