@@ -14,6 +14,9 @@ A PyTorch-based Artificial Neural Network (ANN) for detecting fraudulent credit 
 Python, PyTorch, Pandas, NumPy, Scikit-learn, SMOTE, Matplotlib, Seaborn
 
 ## Dataset
+Download it from Kaggle:
+
+https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 * `fraudTrain.csv`
 * `fraudTest.csv`
